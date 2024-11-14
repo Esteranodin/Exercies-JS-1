@@ -4,6 +4,6 @@ function rest() {
    
     let restdiv = number1 % number2;
 
-    window.alert(restdiv)
+    window.alert(restdiv);
 }
 
