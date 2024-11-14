@@ -42,4 +42,10 @@
 //           window.alert("Le nombre saisi est supérieur à 5");
 //      };
 
+//EXo 12
+function carre (a){
+     return a * a;
+}
+const chooseNumber = Number(prompt('Tapez un nombre'));
 
+window.alert( "Le carré de " + chooseNumber + " est " + carre(chooseNumber));
