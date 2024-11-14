@@ -31,3 +31,15 @@
 
 
 // EXO 11
+// const aNumber = Number(prompt('Tapez un nombre entre 1 et 10'));    
+//      if (aNumber < 5) {
+//           window.alert("Le nombre saisi est inférieur à 5");
+//      }
+//      else if (aNumber === 5) {
+//           window.alert("Le nombre saisi est égal à 5");
+//      }
+//      else if (aNumber > 5) {
+//           window.alert("Le nombre saisi est supérieur à 5");
+//      };
+
+
