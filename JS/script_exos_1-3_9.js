@@ -12,19 +12,22 @@
 // window.alert ('Bonjour, ' + prenom);
 
 //EXO 9
-let nombreRandom = prompt('Tapez un nombre');
-let multiTabl;
-let result = "";
-
-for (let i = 1; i <= 10; i += 1) {
-     multiTabl = nombreRandom * i;
-     result += nombreRandom + "x" + i + "=" + multiTabl + '\n';
-}
-
-window.alert(result);
+// let nombreRandom = prompt('Tapez un nombre');
+// let multiTabl = "";
+// let result = "";
+// for (let i = 1; i <= 10; i += 1) {
+//      multiTabl = nombreRandom * i;
+//      result += nombreRandom + "x" + i + "=" + multiTabl + '\n';
+// }
+// window.alert(result);
 
 // EXO 10
+// let aWord = prompt('Tapez un mot');
+// let letters = "";
+// for (let i = 0; i< aWord.length; i += 1) {
+//     letters += aWord[i] + '\n'
+// };
+// window.alert(letters);
 
-// let aword = prompt('Tapez un mot');
 
-// window.alert ('Nom : ' + lastName + '\n' + 'Prénom : ' + firstName + '\n' + 'Ville : ' + city) 
+// EXO 11
