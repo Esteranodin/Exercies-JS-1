@@ -11,4 +11,7 @@ function mathsfordraws() {
     window.alert(total);
 }
 
-// window.alert(`la pointure est : ${size}, et l'année de naissance : ${birthyear}`);
+// refactoriser en une ligne
+// function calcul(a, b) {
+//     return (a * 2 + 5) * 50 - b + 1766;
+//   }

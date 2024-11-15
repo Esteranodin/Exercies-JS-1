@@ -11,8 +11,8 @@
 // let prenom = prompt('Tapez votre prénom');
 // window.alert ('Bonjour, ' + prenom);
 
-//EXO 9
-// let nombreRandom = prompt('Tapez un nombre');
+// EXO 9
+// const nombreRandom = prompt('Tapez un nombre');
 // let multiTabl = "";
 // let result = "";
 // for (let i = 1; i <= 10; i += 1) {
@@ -43,9 +43,9 @@
 //      };
 
 //EXo 12
-function carre (a){
-     return a * a;
-}
-const chooseNumber = Number(prompt('Tapez un nombre'));
+// function carre (a){
+//      return a * a;
+// }
+// const chooseNumber = Number(prompt('Tapez un nombre'));
 
-window.alert( "Le carré de " + chooseNumber + " est " + carre(chooseNumber));
+// window.alert( "Le carré de " + chooseNumber + " est " + carre(chooseNumber));
